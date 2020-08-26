@@ -2,7 +2,7 @@
 
 Template for authorizing users using Angular JS against Azure Active Directory
 
-Credit goes to content creater TheSKTubeforYou at URL https://www.youtube.com/watch?v=RSqREkxe2z0
+Credit goes to content creator TheSKTubeforYou at URL https://www.youtube.com/watch?v=RSqREkxe2z0
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.2.
 
